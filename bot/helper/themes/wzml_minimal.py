@@ -218,9 +218,9 @@ class WZMLStyle:
     UL =                        '<b>📈ᴜʟ:</b> {UL}/s'
 
     ###--------BUTTONS-------
-    PREVIOUS = '⫷◀️'
+    PREVIOUS = '◀️'
     REFRESH = 'Pᴀɢᴇs\n{Page}'
-    NEXT = '⫸▶️'
+    NEXT = '▶️'
     # ---------------------
 
     #STOP_DUPLICATE_MSG: ---> clone.py, aria2_listener.py, task_manager.py
